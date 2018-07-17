@@ -6,3 +6,5 @@ var Test = /** @class */ (function () {
     return Test;
 }());
 new Test();
+var myName = 'mark';
+myName = '5';
